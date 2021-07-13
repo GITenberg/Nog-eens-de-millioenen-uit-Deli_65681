@@ -1,0 +1,30 @@
+_repo: Nog-eens-de-millioenen-uit-Deli_65681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, J. van den
+    aliases:
+    - Den Brand, J. van
+    - Van den Brand, J.
+    deathdate: 1921
+    gutenberg_agent_id: '53449'
+    url: http://www.gutenberg.org/2009/agents/53449
+description: ''
+gutenberg_issued: '2021-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65681'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor laws and legislation -- Indonesia'
+- !lcsh 'Agricultural laborers -- Indonesia -- Sumatra'
+- !lcc 'HD'
+- !lcsh 'Dutch -- Indonesia -- Sumatra'
+- !lcsh 'Plantations -- Indonesia -- Sumatra'
+- !lcsh 'Contract labor -- Indonesia -- Sumatra'
+- GITenberg
+title: 'Nog eens: de millioenen uit Deli'
+url: http://www.gutenberg.org/ebooks/65681
